@@ -41,4 +41,3 @@ plt.xlabel('radians')
 plt.title('Sin and Cos')
 plt.legend(loc='best')
 plt.show()
-
